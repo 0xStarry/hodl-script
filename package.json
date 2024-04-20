@@ -1,0 +1,11 @@
+{
+    "name": "hodl-script",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "type": "module",
+    "dependencies": {
+      "viem": "^2.9.23"
+    }
+  }
+  
